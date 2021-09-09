@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vishaljoshi789
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning Computer Vision Artificial Intelligence
 - 💞️ I’m looking to collaborate on Web Development
+- 🌱 Experienced in Python, Django, Tkinter, OpenCV, HTML, CSS, Javascript, Nodejs, Express, React
 
 
 <!---
