@@ -22,5 +22,8 @@
   ### :man_technologist: About Me :
   I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   - :telescope: I’m a college student and contributing to frontend and backend for building web applications.
+  - :seedling: Exploring Computer Vision Artificial Intelligence
+  - :heart: I’m looking to collaborate on Web Development
+  - :zap: Experienced in Python, Django, Tkinter, OpenCV, HTML, CSS, Javascript, Nodejs, Express, React, Tailwindcss, jQuery
 
 
