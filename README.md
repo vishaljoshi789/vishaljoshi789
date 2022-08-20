@@ -5,7 +5,7 @@
       <a href="https://instagram.com/vishal_404_">
         <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
-      <a href="[https://instagram.com/vishal_404_](https://www.linkedin.com/in/vishal-joshi-7985b0240)">
+      <a href="https://www.linkedin.com/in/vishal-joshi-7985b0240">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
       </a>
   </div>
